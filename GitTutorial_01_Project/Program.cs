@@ -6,7 +6,7 @@ namespace GitTutorial_01_Project
     {
         static void Main(string[] args)
         {
-            WriteLine("Hello GitTutorial_01");
+            WriteLine("Hello GitTutorial_01!");
         }
     }
 }
